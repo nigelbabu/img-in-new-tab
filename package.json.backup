@@ -1,0 +1,8 @@
+{
+  "name": "img-in-new-tab",
+  "fullName": "Image in New Tab",
+  "description": "Right click and open any image in a new tab",
+  "author": "Nigel Babu",
+  "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
+  "version": "1.0"
+}
