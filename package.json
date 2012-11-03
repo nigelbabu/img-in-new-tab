@@ -1,9 +1,9 @@
 {
-    "name": "img-in-new-tab", 
-    "license": "MIT/X11 License", 
-    "author": "Nigel Babu", 
-    "version": "1.0", 
-    "fullName": "Image in New Tab", 
-    "id": "jid1-E9sm6XfUIknupg", 
+    "name": "img-in-new-tab",
+    "license": "MIT/X11 License",
+    "author": "Nigel Babu",
+    "version": "1.1",
+    "fullName": "Image in New Tab",
+    "id": "jid1-E9sm6XfUIknupg",
     "description": "Right click and open any image in a new tab"
 }
